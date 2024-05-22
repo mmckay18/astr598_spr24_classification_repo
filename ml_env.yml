@@ -1,0 +1,5 @@
+name: ml_env
+channels:
+  - http://ssb.stsci.edu/astroconda
+  - defaults
+prefix: /Users/mmckay/conda/envs/ml_env
