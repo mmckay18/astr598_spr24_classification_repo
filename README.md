@@ -10,10 +10,10 @@
 - compare the performance for each of the data sets
 ets
 
-# Setup conda env (ml_env)
+# Setup conda env (a598_ml_env)
 
 ```bash
-$ conda env create -f ml_env.yml
+$ conda env create -f a598_ml_env.yml
 ```
 
 Part 1 - GMM - Myles
