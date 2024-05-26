@@ -1,3 +1,7 @@
+# ignore large files
+DATA/featurized_single_freq.csv
+DATA/featurized_single_freq.feather
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
